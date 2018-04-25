@@ -8,4 +8,4 @@ Before you run the project, open <b>terminal</b> and go to the root folder of th
 This will install the required XLPagerTabStrip pod.
 <br>
 
-![Demo](https://user-images.githubusercontent.com/14230368/39202143-b1e48bde-480e-11e8-945a-612910ac7c00.gif)
+![Demo](https://user-images.githubusercontent.com/14230368/39244999-18772e5a-48b0-11e8-9b11-8eaaf042706c.gif)

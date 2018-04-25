@@ -1,4 +1,4 @@
-# PagerStripDemo
+# PagerStripDemo in iOS Swift
 Simple demo of basic pager tab in <b>iOS Swift</b> using <a href= https://github.com/xmartlabs/XLPagerTabStrip>XLPagerTabStrip</a>
 
 Has a basic demo of ButtonBarPagerTabStripViewController of XLPagerTabStrip using Swift with minimal customisations to get you started with the integration and use of this pod in your swift project. Has the required pods as well.
